@@ -46,7 +46,7 @@ func main() {
     }
 }
 ```
-And so other use cases, you can see more in [example/broadcast]("./example/broadcast/main.go") to see more detail.
+And so other use cases, you can see more in [example/broadcast]("example/broadcast/main.go") to see more detail.
 
 ## License
 N/A
